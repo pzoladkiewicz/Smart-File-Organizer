@@ -103,9 +103,9 @@ OrganizedFiles/
 ## 🔄 Status Projektu
 
 - ✅ **v1.0** - Podstawowa funkcjonalność sortowania
-- 🔄 **v1.1** - System logowania (w trakcie)
-- 📋 **v1.2** - Konfiguracja przez plik config (planowane)
-- 📋 **v1.3** - Scheduler automatyczny (planowane)
+- 🔄 **v1.1** - System logowania
+- 📋 **v1.2** - Konfiguracja przez plik config
+- 📋 **v1.3** - Scheduler automatyczny
 
 ## 🧪 Testowanie
 
@@ -116,12 +116,8 @@ Projekt przetestowany na:
 
 ## 🤝 Wkład w Rozwój
 
-Ten projekt jest częścią mojej ścieżki rozwoju w kierunku **Azure Data Engineer + Python Automation**. 
+Ten projekt jest częścią mojej ścieżki rozwoju.
 
-Kolejne projekty będą obejmować:
-- Integrację z Azure Blob Storage
-- API do pobierania danych
-- ETL pipelines w chmurze
 
 ## 📞 Kontakt
 
