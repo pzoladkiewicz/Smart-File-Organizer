@@ -103,9 +103,11 @@ OrganizedFiles/
 ## 🔄 Status Projektu
 
 - ✅ **v1.0** - Podstawowa funkcjonalność sortowania
-- 🔄 **v1.1** - System logowania
-- 📋 **v1.2** - Konfiguracja przez plik config
-- 📋 **v1.3** - Scheduler automatyczny
+- ✅ **v1.1** - System logowania
+- ✅ **v1.2** - Konfiguracja przez plik config
+- ✅ **v1.3** - Scheduler automatyczny
+- 📋 **v1.4** - Sortowanie według rozmiaru
+- 📋 **v1.5** - Sortowanie według daty
 
 ## 🧪 Testowanie
 
