@@ -1,6 +1,6 @@
 # Smart File Organizer
 
-Automatyczne sortowanie plików według typu, rozmiaru i daty utworzenia. Pierwszy projekt w portfolio Azure Data Engineer + Python Automation.
+Automatyczne sortowanie plików według typu, rozmiaru i daty utworzenia.
 
 ## 🎯 Cel Projektu
 
