@@ -121,12 +121,11 @@ Projekt przetestowany na:
 Ten projekt jest częścią mojej ścieżki rozwoju.
 
 
-## 📞 Kontakt
+## Aby zobaczyć moje aktualne prace i kluczowe projekty**, zapraszam na:  
+👉 **[Profil główny GitHub](https://github.com/pzoladkiewicz)** - przypięte repozytoria  
+👉 **[Profil LinkedIn](https://linkedin.com/in/pzoladkiewicz)** - aktualny status zawodowy  
 
-**Paweł Żołądkiewicz**
-- LinkedIn: [linkedin.com/in/pzoladkiewicz](https://linkedin.com/in/pzoladkiewicz)
-- Email: pzoladkiewicz@gmail.com
-- Portfolio: [github.com/pzoladkiewicz/projekty](https://github.com/pzoladkiewicz/projekty)
+*Aktualizacja: październik 2025*
 
 ---
 *Projekt stworzony w ramach rozwoju kompetencji Python Automation - Czerwiec 2025*
